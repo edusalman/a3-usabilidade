@@ -1,0 +1,60 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    flex: 1;
+}
+
+/* HERO */
+.hero {
+    background-color: #ffffff;
+    padding: 60px 0;
+}
+
+/* CARD */
+.product-card {
+    transition: 0.3s;
+    border: none;
+
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.product-card:hover {
+    transform: scale(1.03);
+}
+
+/* IMAGEM */
+.product-img {
+    height: 220px;
+    object-fit: cover;
+}
+
+/* PREÇO */
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0d6efd;
+}
+
+/* FAVORITO */
+.favorite-btn {
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+}
+
+/* FAVORITOS */
+#favorites-container {
+    min-height: 100px;
+}
+
+/* FOOTER */
+footer {
+    margin-top: auto;
+}

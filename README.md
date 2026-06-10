@@ -104,9 +104,9 @@ A aplicação está publicada via **Vercel**:
 Desenvolvido por estudantes de Engenharia de Software — Projeto Semestral A3.
 
 Eduardo Henrique Nogueira Salman - RM 825115635
-Gustavo
+Gustavo Marques Benevides - RM 825148515
 João Victor Vieira Dias - RM 825130113
 Pablo Maldonado Rocha - RM 825131728
-Rafaella
+Rafaella Isalto Watashi Oliveira - RM 825151847
 Yasmim Pereira da Costa - RM 825149765
 
